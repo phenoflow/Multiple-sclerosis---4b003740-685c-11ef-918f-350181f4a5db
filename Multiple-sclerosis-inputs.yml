@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/sclerosis---secondary.py
+inputModule3:
+  class: File
+  path: python/remittentprogressive-multiple-sclerosis---secondary.py
+inputModule4:
+  class: File
+  path: python/acute-multiple-sclerosis---secondary.py
+inputModule5:
+  class: File
+  path: python/chronic-multiple-sclerosis---secondary.py
+inputModule6:
+  class: File
+  path: python/spinal-multiple-sclerosis---secondary.py
+inputModule7:
+  class: File
+  path: python/multiple-sclerosis-exacerbation---secondary.py
+inputModule8:
+  class: File
+  path: python/multiple-sclerosis-generalized---secondary.py
+inputModule9:
+  class: File
+  path: python/multiple-sclerosis-brainstem---secondary.py
+inputModule10:
+  class: File
+  path: python/secondary-multiple-sclerosis---secondary.py
+inputModule11:
+  class: File
+  path: python/multiple-sclerosis-remitting---secondary.py
+inputModule12:
+  class: File
+  path: python/primary-multiple-sclerosis---secondary.py
+inputModule13:
+  class: File
+  path: python/multiple-sclerosis-benign---secondary.py
+inputModule14:
+  class: File
+  path: python/multiple-sclerosis-malignant---secondary.py
+inputModule15:
+  class: File
+  path: python/multiple-sclerosis-uhthoff---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
